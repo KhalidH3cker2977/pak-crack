@@ -19,4 +19,5 @@ This coomands is for Pak idz cloning
 🔗 python2 pakcrack.py
 
 Username:pak
+
 password: cloner
